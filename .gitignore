@@ -127,3 +127,13 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+Data/Boston/calendar.csv
+Data/Boston/listings.csv
+Data/Boston/reviews.csv
+Data/Seattle/calendar.csv
+Data/Seattle/listings.csv
+Data/Seattle/reviews.csv
+Data/.DS_Store
+Data/Boston/.DS_Store
+Data/Seattle/.DS_Store
+.DS_Store
