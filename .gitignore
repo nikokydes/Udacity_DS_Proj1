@@ -143,3 +143,4 @@ Data/Boston/reviews_kaggle.csv
 Data/Seattle/calendar_kaggle.csv
 Data/Seattle/listings_kaggle.csv
 Data/Seattle/reviews_kaggle.csv
+*.jpg
