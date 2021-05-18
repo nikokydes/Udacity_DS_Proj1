@@ -12,5 +12,7 @@ The data files are _calendar.csv_ and _listings.csv_, which contain booking pric
 ## Project Motivation
 This is a Udacity project for their Data Scientist Nanodegree program. I was interested in finding out what drives AirBnB price listings and if there are any stragegies for saving money on booking prices. This project analyzes the AirBnB listing prices from March 2021 to see what are the most important factors driving listing prices in Seattle and Boston.
 
+![](Images/Avg%20Weekly%20Price%20by%20City.jpg)
+
 ## Acknowledgements
 The data was taken from the **Inside Airbnb** website at http://insideairbnb.com/get-the-data.html and uses the March 2021 datasets for both Seattle and Boston. I also browsed some Kaggle projects which dealt with the Seattle AirBnB data, such as https://www.kaggle.com/carazzz/242-project-seattle-airbnb.
