@@ -14,5 +14,7 @@ This is a Udacity project for their Data Scientist Nanodegree program. I was int
 
 ![](Images/Avg%20Weekly%20Price%20by%20City.jpg)
 
+The main results are that prices are higher in the summer months and around certain holidays, and that the number of bedrooms and bathrooms are the main drivers of price.
+
 ## Acknowledgements
 The data was taken from the **Inside Airbnb** website at http://insideairbnb.com/get-the-data.html and uses the March 2021 datasets for both Seattle and Boston. I also browsed some Kaggle projects which dealt with the Seattle AirBnB data, such as https://www.kaggle.com/carazzz/242-project-seattle-airbnb.
